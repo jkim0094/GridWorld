@@ -1,0 +1,10 @@
+# Optional: Ignore Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# Lock file for uv
+uv.lock
