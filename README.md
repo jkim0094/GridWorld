@@ -9,7 +9,7 @@ The project is structured in three stages:
 
 * [Stage 1: Table-based Q-Learning Agent](#stage-1-table-based-q-learning-agent)
 * [Stage 2: Deep Q-Learning (DQN)](#stage-2-deep-q-learning-dqn-with-a-single-agent)
-* [Stage 3: Multi-Agent DQN (MARL)](#fit5226-project-stage-3-multi-agent-dqn-learning)
+* [Stage 3: Multi-Agent DQN (MARL)](#stage-3-multi-agent-dqn-marl)
 
 
 
@@ -182,7 +182,7 @@ Specifically:
 
 This demonstrates that **DQN can overcome the limitations of tabular Q-learning** in more complex environments, and can be effectively used to train agents to learn optimal behavior across diverse scenarios.
 
-# FIT5226 Project Stage 3: Multi-Agent DQN Learning
+# Stage 3: Multi-Agent DQN Learning
 
 ---
 
@@ -262,7 +262,7 @@ The Q-values typically range in small decimal magnitudes.
 
 ## 7. Learning Results
 
-### ✅ Training Curves
+### Training Curves
 
 - **Reward increases** over episodes → indicating improved policies
 - **Loss decreases**, showing model convergence
@@ -272,7 +272,7 @@ The Q-values typically range in small decimal magnitudes.
 
 ---
 
-### ✅ Performance Summary
+### Performance Summary
 
 - **Training (Episodes 1 to 50,000)**  
   - Success rate: **91.37%**  
