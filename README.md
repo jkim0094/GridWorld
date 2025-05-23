@@ -8,8 +8,9 @@ The project is structured in three stages:
 ## Project Stages
 
 * [Stage 1: Table-based Q-Learning Agent](#stage-1-table-based-q-learning-agent)
-* [Stage 2: Deep Q-Learning (DQN)](#stage-2-deep-q-learning-dqn)
-* [Stage 3: Multi-Agent DQN (MARL)](#stage-3-multi-agent-dqn-marl)
+* [Stage 2: Deep Q-Learning (DQN)](#stage-2-deep-q-learning-dqn-with-a-single-agent)
+* [Stage 3: Multi-Agent DQN (MARL)](#fit5226-project-stage-3-multi-agent-dqn-learning)
+
 
 
 ---
